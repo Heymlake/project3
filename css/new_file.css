@@ -1,0 +1,42 @@
+.text1{
+	position: absolute;
+	width: 230px;
+	left: 80px;
+	top: 150px;
+}
+
+.text2{
+	position: absolute;
+	width: 115px;
+	left: 60px;
+	top: 350px;
+}
+
+.text3{
+	position: absolute;
+	width: 180px;
+	left: 55px;
+	top: 390px;
+}
+
+.text4{
+	position: absolute;
+	width: 235px;
+	left: 50px;
+	top: 430px;
+}
+
+.projector{
+	position: absolute;
+	width: 280px;
+	left: -20px;
+	top: 530px;
+}
+
+.light{
+	position: absolute;
+	width: 170px;
+	left: 235px;
+	top: 530px;
+	opacity: 0.9;
+}
